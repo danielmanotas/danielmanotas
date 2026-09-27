@@ -2,7 +2,7 @@
 
 # Hola, soy Daniel Manotas 👋
 
-Me gusta compartir código para resolver un problema especificos usando lenguajes como **Python y Oracle PL/SQL** 
+Me gusta desarollar código para resolver problemas especificos usando lenguajes como **Python y Oracle PL/SQL** 
 
 </div>
 
