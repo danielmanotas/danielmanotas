@@ -27,5 +27,3 @@ Me gusta compartir código para resolver un problema especificos usando lenguaje
 - ✉️ **Correo:** [danielmanotask9@gmail.com](mailto:danielmanotask9@gmail.com)
 
 [Explora mis repositorios →](https://github.com/danielmanotas?tab=repositories)
-
-[Explora mis repositorios →](https://github.com/danielmanotas?tab=repositories)
